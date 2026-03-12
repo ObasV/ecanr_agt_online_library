@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECANR Online Library</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>📚 Agricultural Technology Departmental Library</h1>
+            <button id="theme-toggle">🌙 Dark Mode</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="controls">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="🔎 Search resources by title...">
+            </div>
+            <div class="filter-container">
+                <select id="category-filter">
+                    <option value="all">All Categories</option>
+                </select>
+                <select id="subcategory-filter" disabled>
+                    <option value="all">All Subcategories</option>
+                </select>
+            </div>
+        </section>
+
+        <section id="resource-grid" class="resource-grid">
+            <!-- Resources will be dynamically rendered here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 ECANR Library. All rights reserved.</p>
+    </footer>
+
+    <!-- Load resources data first -->
+    <script src="resources.js"></script>
+    <!-- Then load the main script -->
+    <script src="script.js"></script>
+</body>
+</html>
