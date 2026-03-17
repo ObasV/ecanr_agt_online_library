@@ -248,7 +248,7 @@ th, td {
 }
 
 tbody tr:nth-of-type(even) {
-  background-color: #f3f3f3;
+  background-color: #7c7c7c;
 }
 
 /* Mobile Responsiveness (Stacked Layout) */
