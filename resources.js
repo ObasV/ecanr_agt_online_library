@@ -78,5 +78,12 @@ const resources = [
     subcategory: "Agronomy",
     file: "books/Mr_martins/The_principles_of_agronomy_-_a_text-book_of_crop_production_for_high-schools_and_short-courses_in_agricultural_colleges.pdf"
   },
+  {
+    title: "Agrios-Plant pathology",
+    type: "link",
+    category: "Crop production",
+    subcategory: "Crop pathology",
+    url: "https://drive.google.com/file/d/1imthsudfEpq0Xlc_3YEkNhWCXl1ZcC3_/view?usp=drivesdk"
+  },
   
 ];
