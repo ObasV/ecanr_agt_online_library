@@ -116,21 +116,12 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 
-// Populate course list
+// Set the current year in the footer
+const yearSpan = document.getElementById('newYear');
+const currentYear = new Date().getFullYear();
+yearSpan.textContent= currentYear;
 
-const courseList = document.getElementById("course-list");
 
-courses.forEach((course, index) => {
-  // 1. Create a NEW row instance for every iteration
-  const row = document.createElement("tr");
 
-  // 2. Set the content of that specific row
-  row.innerHTML = `
-    <td data-label="S/N">${index + 1}</td>
-    <td data-label="Code">${course.code}</td>
-    <td data-label="Title"><a href="${course.url}">${course.title}</a></td>
-  `;
 
-  // 3. Append the element node to the list
-  courseList.appendChild(row);
-});
+
