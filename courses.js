@@ -5,6 +5,16 @@ const courses =[
         url: "course_materials/AGT 102_ANNUAL CROPS.pdf",
     },
     {
+        title: "AGT 104 - CROP PROTECTION",
+        code: "AGT 104",
+        url: "course_materials/AGT 104_CROP PROTECTION.pdf",
+    },
+    {
+        title: "AGT 110 - WOODLAND MANAGEMENT",
+        code: "AGT 110",
+        url: "course_materials/AGT 110_WOODLAND MANAGEMENT.pdf",
+    },
+    {
         title: "AGT 113 - INTRODUCTION TO SOIL SCIENCE",
         code: "AGT 113",
         url: "course_materials/AGT 113_INTRODUCTION TO SOIL SCIENCE.pdf"
