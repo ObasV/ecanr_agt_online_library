@@ -15,6 +15,11 @@ const courses =[
         url: "course_materials/AGT 114_PRINCIPLES OF ANIMAL PRODUCTION.pdf"
     },
     {
+        title: "AGT 116 - INDUSTRIAL CROP PRODUCTION 1",
+        code: "AGT 116",
+        url: "course_materials/AGT 116_INDUSTRIAL CROP PRODUCTION 1.pdf"
+    },
+    {
         title: "AGT 126 - MICRO LIVESTOCK PRODUCTION",
         code: "AGT 126",
         url: "course_materials/AGT 126_MICROLIVESTOCK PRODUCTION.pdf"
@@ -33,6 +38,11 @@ const courses =[
         title: "AGT 211 - PASTURE AND FORAGE PRODUCTION",
         code: "AGT 211",
         url: "course_materials/AGT 211_PASTURE AND FORAGE PRODUCTION.pdf"
+    },
+    {
+        title: "AGT 214 - INDUSTRIAL CROP PRODUCTION 2",
+        code: "AGT 214",
+        url: "course_materials/AGT 214_INDUSTRIAL CROP PRODUCTION 2.pdf"
     },
     {
         title: "AGT 215 - SOIL FERTILITY AND CROP NUTRITION",
