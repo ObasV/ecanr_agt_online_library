@@ -90,6 +90,11 @@ const courses =[
         url: "course_materials/AGT 227_BASIC FISHERIES TECHNOLOGY.pdf"
     },
     {
+        title: "AGT 228 - INTRODUCTION TO ANIMAL HEALTH",
+        code: "AGT 228",
+        url: "course_materials/AGT 228_INTRODUCTION TO ANIMAL HEALTH.pdf"
+    },
+    {
         title: "AGT 231 - STATISTICS AND FIELD EXPERIMENTATION",
         code: "AGT 231",
         url: "course_materials/AGT 231_STATISTICS AND FIELD EXPERIMENTATION.pdf"
