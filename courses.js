@@ -1,5 +1,10 @@
 const courses =[
     {
+        title: "AGT 101 - PRINCIPLES OF CROP PRODUCTION",
+        code: "AGT 101",
+        url: "course_materials/AGT 101_PRINCIPLES OF CROP PRODUCTION.pdf",
+    },
+    {
         title: "AGT 102 - ANNUAL CROPS",
         code: "AGT 102",
         url: "course_materials/AGT 102_ANNUAL CROPS.pdf",
@@ -28,6 +33,11 @@ const courses =[
         title: "AGT 116 - INDUSTRIAL CROP PRODUCTION 1",
         code: "AGT 116",
         url: "course_materials/AGT 116_INDUSTRIAL CROP PRODUCTION 1.pdf"
+    },
+    {
+        title: "AGT 124 - PRINCIPLES OF BEE KEEPING",
+        code: "AGT 124",
+        url: "course_materials/AGT 124_PRINCIPLES OF BEE KEEPING.pdf",
     },
     {
         title: "AGT 126 - MICRO LIVESTOCK PRODUCTION",
@@ -63,6 +73,16 @@ const courses =[
         title: "AGT 216 - FARM SOIL MANAGEMENT",
         code: "AGT 216",
         url: "course_materials/AGT 216_FARM SOIL MANAGEMENT.pdf"
+    },
+    {
+        title: "AGT 225 - BEEF AND DAIRY PRODUCTION",
+        code: "AGT 225",
+        url: "course_materials/AGT 225_BEEF AND DAIRY PRODUCTION.pdf",
+    },
+    {
+        title: "AGT 226 - HORTICULTURAL CROP PRODUCTION",
+        code: "AGT 226",
+        url: "course_materials/AGT 226_HORTICULTURAL CROP PRODUCTION.pdf",
     },
     {
         title: "AGT 227 - BASIC FISHERIES TECHNOLOGY",
